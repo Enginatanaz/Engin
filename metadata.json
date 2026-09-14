@@ -1,0 +1,7 @@
+{
+  "name": "Excel Akademi AI",
+  "description": "Sıfırdan profesyonel seviyeye etkileşimli, yapay zeka destekli Türkçe Excel eğitim platformu ve simülatörü.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
